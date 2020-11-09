@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=shravankb&show_icons=true&theme=radical)
 
-
 <br><br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shravankb&column=7&theme=dracula" />
 </div>
+
+<br>
+
+Located:  <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
+
