@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=shravankb&show_icons=true&theme=radical)
+
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shravankb&column=7&theme=dracula" />
+</div>
