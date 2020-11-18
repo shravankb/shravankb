@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Uh oh...]("onload="alert('XSS'))
+
+![alt Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
 <!--
