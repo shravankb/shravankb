@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Uh oh...](https://www.example.com/image.png"onload="alert('XSS'))
+![Uh oh...]("onload="alert('XSS'))
 
 
 <!--
