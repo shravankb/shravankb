@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 Located:  <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
 
-[![Anurag's github stats](https://github-readme-quotes.herokuapp.com/quote)](https://github-readme-quotes.herokuapp.com/quote)
+[![Anurag's github stats](https://blooming-sierra-26849.herokuapp.com/github/introduction/public)](https://blooming-sierra-26849.herokuapp.com/github/introduction/public)
